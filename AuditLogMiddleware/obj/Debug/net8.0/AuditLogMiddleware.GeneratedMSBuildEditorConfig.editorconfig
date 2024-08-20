@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AuditLogMiddleware
-build_property.ProjectDir = F:\AuditLogMiddleware\AuditLogMiddleware\AuditLogMiddleware\
+build_property.ProjectDir = F:\AuditLogMiddleware\新建文件夹\AuditLogMiddleware\AuditLogMiddleware\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
