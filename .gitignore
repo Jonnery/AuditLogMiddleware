@@ -341,3 +341,5 @@ ASALocalRun/
 /AuditLogMiddleware/*.user
 
 /AuditLogMiddlewaret/Logs
+/AuditLogMiddleware/obj
+/AuditLogMiddleware/obj
