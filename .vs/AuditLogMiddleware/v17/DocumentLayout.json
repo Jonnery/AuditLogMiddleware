@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\mongohelp\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\mongohelp\\mongodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\auditmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\auditmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\auditlogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\auditlogattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\loglevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\remark.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\remark.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\entity\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\entity\\auditlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|f:\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware\\auditlogmiddleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83F05C42-2A45-4C71-A2F0-C1EFF525620B}|AuditLogMiddleware\\AuditLogMiddleware.csproj|solutionrelative:auditlogmiddleware\\auditlogmiddleware.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 35,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Remark.md",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\Remark.md",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\Remark.md",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\Remark.md",
+              "RelativeToolTip": "AuditLogMiddleware\\Remark.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-20T02:14:23.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogLevel.cs",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\LogLevel.cs",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\LogLevel.cs",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\LogLevel.cs",
+              "RelativeToolTip": "AuditLogMiddleware\\LogLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-20T02:06:09.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuditLogMiddleware",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware.csproj",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\AuditLogMiddleware.csproj",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware.csproj",
+              "RelativeToolTip": "AuditLogMiddleware\\AuditLogMiddleware.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-20T01:36:19.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditLogAttribute.cs",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogAttribute.cs",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\AuditLogAttribute.cs",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogAttribute.cs",
+              "RelativeToolTip": "AuditLogMiddleware\\AuditLogAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T03:03:23.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuditMiddleware.cs",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\AuditMiddleware.cs",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\AuditMiddleware.cs",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\AuditMiddleware.cs",
+              "RelativeToolTip": "AuditLogMiddleware\\AuditMiddleware.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAgwCEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:59:03.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MongoDbContext.cs",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\MongoHelp\\MongoDbContext.cs",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\MongoHelp\\MongoDbContext.cs",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\MongoHelp\\MongoDbContext.cs",
+              "RelativeToolTip": "AuditLogMiddleware\\MongoHelp\\MongoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:58:18.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuditLog.cs",
+              "DocumentMoniker": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\Entity\\AuditLog.cs",
+              "RelativeDocumentMoniker": "AuditLogMiddleware\\Entity\\AuditLog.cs",
+              "ToolTip": "F:\\AuditLogMiddleware\\AuditLogMiddleware\\AuditLogMiddleware\\Entity\\AuditLog.cs",
+              "RelativeToolTip": "AuditLogMiddleware\\Entity\\AuditLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBUAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T02:57:15.186Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
