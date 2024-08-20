@@ -18,6 +18,7 @@ public void Configure(IApplicationBuilder app, IHostingEnvironment env)
 
 ### 使用方法
 
+```
 [AuditLog(LogLevel.Info, IncludeRequestBody = true, IncludeResponseBody = false)]
 public class SampleController : ControllerBase
 {
@@ -37,4 +38,4 @@ public class SampleController : ControllerBase
     }
 
 }
-
+```
