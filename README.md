@@ -6,8 +6,9 @@
 ```
 public void ConfigureServices(IServiceCollection services)
 {
-    services.AddSingleton(new MongoDbContext("your-mongodb-connection-string", "your-database-name"));
-    // 
+    //默认表名AuditLogs
+    services.AddSingleton(new MongoDbContext("your-mongodb-connection-string", "your-database-name","AuditLogs"));
+    // 其它配置
 }
 
 public void Configure(IApplicationBuilder app, IHostingEnvironment env)
